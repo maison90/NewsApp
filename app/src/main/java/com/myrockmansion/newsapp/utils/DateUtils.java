@@ -6,9 +6,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by sohammondal on 26/10/16.
- */
 
 public class DateUtils {
     public static String formatNewsApiDate(String inputDate) {
