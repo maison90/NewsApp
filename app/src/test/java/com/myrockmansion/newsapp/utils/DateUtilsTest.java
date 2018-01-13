@@ -13,9 +13,6 @@ import java.text.ParseException;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by sohammondal on 26/10/16.
- */
 @RunWith(PowerMockRunner.class)
 @PrepareForTest({FirebaseCrash.class})
 public class DateUtilsTest {
