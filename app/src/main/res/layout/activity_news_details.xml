@@ -4,7 +4,7 @@
     android:id="@+id/activity_news_details"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.myrockmansion.news.NewsDetailsActivity">
+    tools:context="com.myrockmansion.newsapp.MainActivity">
 
     <WebView
         android:id="@+id/activity_news_details_webview"
